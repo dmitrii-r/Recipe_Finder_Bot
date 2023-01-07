@@ -1,4 +1,4 @@
-# Парсер для проекта Recipe_Finder_Bot
+# Парсер для проекта recipe_finder_bot
 
 [![Python](https://img.shields.io/badge/python-039be5)](https://www.python.org/) 
 [![bs4](https://img.shields.io/badge/BeautifulSoup-9575cd )](https://www.crummy.com/software/BeautifulSoup/) 
@@ -18,7 +18,7 @@
 Данный парсер работает с определенным сайтом, на котором присутствует уникальная верстка. На других ресурсах, для полноценной работы парсера, нужно изменять его код.
 ### Клонировать репозиторий и перейти в него:
 ```
-git clone https://github.com/dmitrii-r/Recipe_Finder_Bot
+git clone https://github.com/dmitrii-r/recipe_finder_parser
 ```
 ### Установить зависимости из файла requirements.txt:
 ```
