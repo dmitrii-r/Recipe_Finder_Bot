@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+venv.bak/
+.venv
+
+.idea
+
+data/images_big/
+data/images_small/
